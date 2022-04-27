@@ -29,5 +29,5 @@ async function registrarUsuarios() {
     alert("¡La cuenta fue creada con éxito!");
     window.location.href = 'login.html'
 
-// estos
+
 }
